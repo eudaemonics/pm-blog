@@ -1,7 +1,43 @@
 [
-    {
-      "commonname": "Mao",
-      "fullname": "Mao",
-      "filename": "https://cdn.jsdelivr.net/gh/eudaemonics/pm-blog/Img509404.png"
-    }
-]
+  {"commonname": "Ally",
+  "fullname": "Luminous Ally",
+  "filename": "https://cdn.jsdelivr.net/gh/eudaemonics/pm-blog/truth-of-love/lumin-ally7.png"
+  },
+
+  {
+    "commonname": "Rafisol",
+    "fullname": "Rafisol",
+    "filename": "https://cdn.jsdelivr.net/gh/eudaemonics/pm-blog/truth-of-love/rafisol7.png"
+  },
+
+  {
+    "commonname": "Annie",
+    "fullname": "Annie",
+    "filename": "https://cdn.jsdelivr.net/gh/eudaemonics/pm-blog/truth-of-love/annie7.png"
+  },
+
+  {
+    "commonname": "Sylvie",
+    "fullname": "Sylvie",
+    "filename": "https://cdn.jsdelivr.net/gh/eudaemonics/pm-blog/truth-of-love/sylvie7.png"
+  },
+
+  {
+    "commonname": "Odette",
+    "fullname": "Odette",
+    "filename": "https://cdn.jsdelivr.net/gh/eudaemonics/pm-blog/truth-of-love/odette7.png"
+  },
+
+  {
+    "commonname": "Serena",
+    "fullname": "Serena",
+    "filename": "https://cdn.jsdelivr.net/gh/eudaemonics/pm-blog/truth-of-love/serena7.png"
+  },
+
+  {
+    "commonname": "Mao",
+    "fullname": "Mao",
+    "filename": "https://cdn.jsdelivr.net/gh/eudaemonics/pm-blog/truth-of-love/mao7.png"
+  },
+  
+  ]
