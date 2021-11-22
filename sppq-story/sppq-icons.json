@@ -1,0 +1,48 @@
+[
+  {"commonname": "Atari",
+  "fullname": "Atari",
+  "filename": "https://cdn.jsdelivr.net/gh/eudaemonics/pm-blog/sppq-story/atari7.png"
+  },
+  
+    {"commonname": "Amitie",
+  "fullname": "Amitie",
+  "filename": "https://cdn.jsdelivr.net/gh/eudaemonics/pm-blog/sppq-story/amitie7.png"
+  },
+  
+  
+        {"commonname": "Lidelle",
+  "fullname": "Lidelle",
+  "filename": "https://cdn.jsdelivr.net/gh/eudaemonics/pm-blog/sppq-story/lidelle7.png"
+  },
+  
+	 {"commonname": "Klug",
+  "fullname": "Klug",
+  "filename": "https://cdn.jsdelivr.net/gh/eudaemonics/pm-blog/sppq-story/klug7.png"
+  },
+  
+        {"commonname": "Puubot",
+			"fullname": "Puubot",
+			"filename": "https://cdn.jsdelivr.net/gh/eudaemonics/pm-blog/sppq-story/puubot7.png"
+  },
+  
+   {"commonname": "Raffina",
+	"fullname": "Raffina",
+	"filename": "https://cdn.jsdelivr.net/gh/eudaemonics/pm-blog/sppq-story/raffina7.png"
+  },
+  
+        {"commonname": "Roquier",
+	"fullname": "Roquier",
+	"filename": "https://cdn.jsdelivr.net/gh/eudaemonics/pm-blog/sppq-story/roquier7.png"
+  },
+  
+      {"commonname": "Seo",
+  "fullname": "Seo",
+  "filename": "https://cdn.jsdelivr.net/gh/eudaemonics/pm-blog/sppq-story/seo7.png"
+  },
+  
+        {"commonname": "Sig",
+  "fullname": "Sig",
+  "filename": "https://cdn.jsdelivr.net/gh/eudaemonics/pm-blog/sppq-story/Sig7.png"
+  }
+
+  ]
